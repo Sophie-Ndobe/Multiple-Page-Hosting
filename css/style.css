@@ -19,7 +19,7 @@ h1 {
 }
 
 .primary-link {
-  margin-right: 10px;
+  margin-right: 20px;
   color: green;
 }
 
@@ -27,6 +27,6 @@ h1 {
     color: green;
 }
 .contact-link {
-  margin-left: 10px;
+  margin-left: 20px;
   color: green;
 }
