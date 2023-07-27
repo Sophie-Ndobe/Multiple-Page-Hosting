@@ -12,6 +12,14 @@ h1 {
   line-height: 34px;
 }
 
+img {
+    display: block;
+    margin:auto;
+    border-radius: 50px;
+    padding-bottom: 20px;
+
+}
+
 .navigation-links {
   display: flex;
   justify-content: center;
